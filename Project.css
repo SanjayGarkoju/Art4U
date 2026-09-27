@@ -222,7 +222,7 @@ header::after{
     width: 100%;
     min-height: 100vh;
     position: relative;
-    background: url(Img/Art4UBI.png);
+    background: url(img/Art4UBI.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
